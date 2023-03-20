@@ -7,7 +7,7 @@ I have experience working with the following technologies:
 
 Frameworks:
 - Angular <img align="center" alt="Angular Logo" src="https://angular.io/assets/images/logos/angular/angular.svg" width="20" height="20"/>  
-- .NET Core <img align="center" alt=".NET Core Logo" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20" height="20"/>
+- .NET Core <img align="center" alt=".NET Core Logo" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20" height="20"/>  
 Languages:  
 - C# <img align="center" alt="C# Logo" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="20" height="20"/>  
 - TypeScript <img align="center" alt="TypeScript Logo" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="20" height="20"/>  
