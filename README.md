@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there, I'm Tom 👋
+I'm a passionate developer who enjoys learning new things. I have experience working with the following technologies:
 
-<!--
-**Xokhezi/Xokhezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angular
+C# .NET Core
+TypeScript
+SQL
+RESTful APIs
+I also use the following tools regularly:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VS Code
+Postman
+Docker
+Git
+My Portfolio
+Check out my portfolio at https://github.com/Xokhezi/Pfoolio to see some of my work.
