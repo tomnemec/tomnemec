@@ -14,7 +14,7 @@ Frameworks:
 Technologies: 
 - C# <img align="center" alt="C# Logo" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="20" height="20"/>  
 - TypeScript <img align="center" alt="TypeScript Logo" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="20" height="20"/> 
-- SQL <img align="center" alt="SQL Logo" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>  
+- SQL <img align="center" alt="SQL Logo" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="20" height="20"/>  
 - RESTful APIs  
   
 I also use the following tools regularly:
