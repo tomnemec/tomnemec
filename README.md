@@ -6,9 +6,15 @@ One thing I love about coding the most is that the journey of learning never end
 I have experience working with the following technologies:  
 
 
-Frameworks:
-- Angular <img align="center" alt="Angular Logo" src="https://angular.io/assets/images/logos/angular/angular.svg" width="20" height="20"/>  
-- .NET Core <img align="center" alt=".NET Core Logo" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20" height="20"/>  
+Frameworks & Libraries:
+- React <img align="center" alt="React Logo" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20"/>
+- Angular <img align="center" alt="Angular Logo" src="https://angular.io/assets/images/logos/angular/angular.svg" width="20" height="20"/>
+- .NET Core <img align="center" alt=".NET Core Logo" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20" height="20"/>
+
+- Bootstrap <img align="center" alt="Bootstrap Logo" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="20" height="20"/>
+- Angular Material <img align="center" alt="Angular Material Logo" src="https://material.angular.io/assets/img/material-logo.png" width="20" height="20"/>
+- Material UI <img align="center" alt="Material UI Logo" src="https://material-ui.com/static/logo_raw.svg" width="20" height="20"/>
+
 
 
 Technologies: 
