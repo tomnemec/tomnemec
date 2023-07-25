@@ -12,8 +12,9 @@ Frameworks & Libraries:
 - .NET Core <img align="center" alt=".NET Core Logo" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20" height="20"/>
 
 - Bootstrap <img align="center" alt="Bootstrap Logo" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="20" height="20"/>
-- Angular Material <img align="center" alt="Angular Material Logo" src="https://material.angular.io/assets/img/material-logo.png" width="20" height="20"/>
-- Material UI <img align="center" alt="Material UI Logo" src="https://material-ui.com/static/logo_raw.svg" width="20" height="20"/>
+- Angular Material 
+- Material UI
+- Chakra UI
 
 
 
