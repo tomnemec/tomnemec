@@ -30,5 +30,5 @@ I also use the following tools regularly:
 - Docker <img align="center" alt="Docker Logo" src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="20" height="20"/>
 - Git <img align="center" alt="Git Logo" src="https://img.icons8.com/color/48/000000/git.png" width="20" height="20"/>  
  
-My Portfolio
-Check out my portfolio at https://github.com/Xokhezi/Pfoolio to see some of my work.
+My Portfolio:
+https://xokhezi.github.io/Portfolio/
