@@ -11,14 +11,14 @@
 
 - 👯 I’m looking to collaborate on **all interesting project**
 
-- 👨‍💻 All of my projects are available at [on my github](on my github)
+- 👨‍💻 All of my projects are available at github.
 
-- 📫 How to reach me **via isntagrma or email**
+- 📫 How to reach me **via Instagram or Email**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tom.is.coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tom.is.coding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tomiscodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tomiscodin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tomiscodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tomiscodin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
