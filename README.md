@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xokhezi&label=Profile%20views&color=0e75b6&style=flat" alt="xokhezi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomnemec&label=Profile%20views&color=0e75b6&style=flat" alt="tomnemec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xokhezi" alt="xokhezi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomnemec" alt="tomnemec" /></a> </p>
 
 - 🔭 I’m currently working on **Subscription portal using MERN**
 
@@ -72,8 +72,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xokhezi&show_icons=true&locale=en" alt="xokhezi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomnemec&show_icons=true&locale=en" alt="tomnemec" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xokhezi&" alt="xokhezi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomnemec&" alt="tomnemec" /></p>
 
 
