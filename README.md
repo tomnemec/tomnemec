@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomnemec" alt="tomnemec" /></a> </p>
 
-- 🔭 I’m currently working on **Subscription portal using MERN**
+- 🔭 Building Css-tools for you: https://www.css-tools.dev/
 
 - 🌱 I’m currently trying to improve my code writting to make it more readable and clean.
 
